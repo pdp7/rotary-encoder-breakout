@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name bourns)(type KiCad)(uri /home/pdp7/dev/mcous-kicad-lib/footprints/bourns.pretty)(options "")(descr ""))
+  (lib (name sparkfun)(type KiCad)(uri /home/pdp7/dev/mcous-kicad-lib/footprints/sparkfun.pretty)(options "")(descr ""))
+)
