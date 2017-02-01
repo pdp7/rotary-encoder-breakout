@@ -11,3 +11,6 @@ My fork to fix pin numbering:
 ## BOM
 * [SparkFun Rotary Encoder (COM-09117)](https://www.sparkfun.com/products/9117)
   * [Alpha 318-ENC130175F-12PS datasheet](http://www.sparkfun.com/datasheets/Components/TW-700198.pdf)
+
+## OSH Park Shared Project
+[UNTESTED: rotary-encoder-breakout.kicad_pcb [26bab1e]](https://oshpark.com/projects/xJAaIWyv)
