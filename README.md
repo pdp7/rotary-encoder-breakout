@@ -1,8 +1,6 @@
 # rotary-encoder-breakout
 KiCad breakout board to make it easier to put rotary encoder on breadboard
 
-* Using Kicad symbol and footprint by @mcous for @sparkfun rotary encoder:
-
 ## Component and Footprint
 Using Kicad symbol and footprint by mcous for sparkfun rotary encoder:
   * [mcous/kicad-lib.git](https://github.com/mcous/kicad-lib.git)
