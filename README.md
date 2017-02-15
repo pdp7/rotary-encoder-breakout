@@ -13,4 +13,8 @@ My fork to fix pin numbering:
   * [Alpha 318-ENC130175F-12PS datasheet](http://www.sparkfun.com/datasheets/Components/TW-700198.pdf)
 
 ## OSH Park Shared Project
-* [UNTESTED: rotary-encoder-breakout.kicad_pcb [e73f710]](https://oshpark.com/shared_projects/DNZ2Ibf6)
+* [rotary-encoder-breakout.kicad_pcb [e73f710]](https://oshpark.com/shared_projects/DNZ2Ibf6)
+
+## Photos:
+[SparkFun Rotary Encoder Breadboard Adapter](https://goo.gl/photos/5eCoerMZ7369YQFb9)
+
