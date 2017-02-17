@@ -28,7 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:sparkfun
 LIBS:Symbols_DCDC-ACDC-Converter_RevC_20Jul2012
 LIBS:Symbols_EN60617_13Mar2013
 LIBS:Symbols_EN60617-10_HF-Radio_DRAFT_12Sep2013
@@ -38,7 +37,7 @@ LIBS:Symbols_Microcontroller_Philips-NXP_RevA_06Oct2013
 LIBS:SymbolsSimilarEN60617+oldDIN617-RevE8
 LIBS:Symbols_Socket-DIN41612_RevA
 LIBS:Symbols_Transformer-Diskrete_RevA
-LIBS:rotary-encoder-breakout-cache
+LIBS:sparkfun
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
