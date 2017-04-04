@@ -1,5 +1,5 @@
-# rotary-encoder-breakout
-KiCad breakout board to make it easier to put rotary encoder on breadboard
+# Rotary Encoder breakout with pull-ups
+Breakout board designed in KiCad makes it easy to put a rotary encoder on a breadboard.  Footprints on the back are meant for [1206 SMD resistors](https://smile.amazon.com/gp/product/B00ZT7QYRM/ref=oh_aui_detailpage_o07_s00).  I choose 1K resistors (marked `102`) when I assembled this board.  
 
 [![breadboard closeup](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/rotary1.jpg)](https://oshpark.com/shared_projects/CN5gjITG)
 [![PCB bottom closeup](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/rotary2.jpg)](https://oshpark.com/shared_projects/CN5gjITG)
