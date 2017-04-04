@@ -1,8 +1,8 @@
 # rotary-encoder-breakout
 KiCad breakout board to make it easier to put rotary encoder on breadboard
 
-![breadboard closeup](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/rotary1.jpg)
-![board closeup](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/rotary2.jpg)
+[![breadboard closeup](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/rotary1.jpg)](https://oshpark.com/shared_projects/CN5gjITG)
+[![PCB bottom closeup](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/rotary2.jpg)](https://oshpark.com/shared_projects/CN5gjITG)
 
 ## Component and Footprint
 Using Kicad symbol and footprint by mcous for sparkfun rotary encoder:
@@ -16,7 +16,9 @@ Using Kicad symbol and footprint by mcous for sparkfun rotary encoder:
 
 ## OSH Park Shared Project
 * [Rotary Encoder Breakout with Pull-ups](https://oshpark.com/shared_projects/CN5gjITG)
-* [Rotary Encoder Breakout (no pull-ups)](https://oshpark.com/shared_projects/DNZ2Ibf6)
+
+[![PCB front preview](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/preview-front.png)](https://oshpark.com/shared_projects/CN5gjITG)
+[![PCB back preview](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/preview-back.png)](https://oshpark.com/shared_projects/CN5gjITG)
 
 ## Photos
 * [Rotary Encoder Breakout Board with Pull-ups](https://goo.gl/photos/yn5GcsKV7RthN2U56)
