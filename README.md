@@ -23,4 +23,4 @@ Using Kicad symbol and footprint by mcous for sparkfun rotary encoder:
 * [Rotary Encoder Breakout Board with Pull-up Resistors](https://www.youtube.com/watch?v=EKscNrjTDD4)
 
 ## Source Code
-* [Example for Teensy 3.2](https://gist.github.com/pdp7/322a8045456f40eb84bf8bcd5bed0b30)
+* [Example for Teensy 3.2](https://github.com/pdp7/rotary-encoder-breakout/blob/master/source/rotary-encoder-test.ino)
