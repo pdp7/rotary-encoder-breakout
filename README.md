@@ -21,7 +21,8 @@ Using Kicad symbol and footprint by mcous for sparkfun rotary encoder:
 [![PCB back preview](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/preview-back.png)](https://oshpark.com/shared_projects/CN5gjITG)
 
 ## Photos
-* [Rotary Encoder Breakout Board with Pull-ups](https://goo.gl/photos/yn5GcsKV7RthN2U56)
+* [Images in GitHub repo](https://github.com/pdp7/rotary-encoder-breakout/tree/master/images)
+* [Google Photos gallery](https://photos.google.com/share/AF1QipOhX9UX2NgAdQrnjnlDBVHRBlhoTsk-aBTeFElKHJmRJ3jEOubHJSx6yyrtfOxlVQ?key=OVp3QTREUU9oTkdRYWM1ZXNrQ0psRURYdEpvanZR)
 
 ## Video
 * [Rotary Encoder Breakout Board with Pull-up Resistors](https://www.youtube.com/watch?v=EKscNrjTDD4)
