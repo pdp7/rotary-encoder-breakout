@@ -4,6 +4,9 @@ Breakout board designed in [KiCad](http://kicad-pcb.org/) makes it easy to put a
 [![breadboard closeup](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/rotary1.jpg)](https://oshpark.com/shared_projects/CN5gjITG)
 [![PCB bottom closeup](https://raw.githubusercontent.com/pdp7/rotary-encoder-breakout/master/images/small/rotary2.jpg)](https://oshpark.com/shared_projects/CN5gjITG)
 
+## Blog post
+* [Rotary Encoder breakout with pull-ups](https://blog.oshpark.com/2017/04/05/rotary-encoder-breakout-with-pull-up-resistors/)
+
 ## Component and Footprint
 Using Kicad symbol and footprint by mcous for sparkfun rotary encoder:
   * [mcous/kicad-lib.git](https://github.com/mcous/kicad-lib.git)
